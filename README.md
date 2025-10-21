@@ -32,3 +32,4 @@ Credits
 -------
 
 - DeepSeek
+- [pico-examples](https://github.com/raspberrypi/pico-examples)
