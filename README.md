@@ -9,6 +9,12 @@ Sensors used:
 - BMP280 barometer (1DOF?) for elevation sensing
 
 
+Code quality
+------------
+
+- Garbage
+
+
 Usage
 -----
 
@@ -20,3 +26,9 @@ As close as I can remember, this is how you build and flash it. I have not teste
 4. `cmake .. -DPICO_BOARD=pico2`
 5. `cd 10dof`
 6. `make -j4 && picotool load -f 10dof.uf2`
+
+
+Credits
+-------
+
+- DeepSeek
